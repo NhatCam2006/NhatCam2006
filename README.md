@@ -1,33 +1,45 @@
 <div align="center">
 
-  <img src="https://via.placeholder.com/1000x200?text=Hello+NhatCam2006" width="100%" />
+  <h1 align="center">Hi, I'm NhatCam2006 🚀</h1>
+  <h3 align="center">Backend Developer • Student at VKU</h3>
 
-  # Hi there, I'm NhatCam2006 👋
+  <br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Student+at+VKU;Backend+Developer;NodeJS+%7C+TypeScript+%7C+Prisma" alt="Typing SVG" />
-  </a>
+  <p align="center">
+    <i>"Talk is cheap. Show me the code."</i>
+  </p>
 
-  ---
+  <br/>
 
-  ### 🛠️ Tech Stack
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,prisma,postgres,docker,git,vscode" />
+  <h3>🛠️  My Weapon of Choice</h3>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,nodejs,express,prisma,mysql,postgres,docker,git&theme=dark" />
+    </a>
+  </p>
 
-  ---
+  <br/>
 
-  ### 📊 GitHub Stats (Đã cập nhật username=NhatCam2006)
-  <img src="https://github-readme-stats.vercel.app/api?username=NhatCam2006&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
+  <h3>📊  Coding Activity</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatCam2006&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=NhatCam2006&show_icons=true&theme=transparent&hide_border=true&title_color=0075ff&text_color=adbac7&icon_color=0075ff" alt="NhatCam2006 Stats" />
+  </p>
 
-  ---
-  
-  ### 🤝 Connect with me
-  <a href="https://facebook.com/profile.php?id=...">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:emailcuaban@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhatCam2006&layout=compact&theme=transparent&hide_border=true&title_color=0075ff&text_color=adbac7" alt="Top Languages" />
+  </p>
+
+  <br/>
+
+  <p align="center">
+    <a href="https://www.facebook.com/profile.php?id=100040436669539" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-Connect-blue?style=flat-square&logo=facebook" alt="Facebook" />
+    </a>
+    &nbsp;
+    <a href="mailto:nhatcam2006@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=flat-square&logo=gmail" alt="Email" />
+    </a>
+  </p>
 
 </div>
